@@ -2,4 +2,6 @@
 
 ## Current projects links
 
-[Circuler propre](https://circulerpropre.fr)
+### Blog / Actuality / News:
+
+* [Circuler propre](https://circulerpropre.fr)
