@@ -2,7 +2,7 @@
 
 ## Lien de projects
 
-### Blog / Actualité / Divertissement:
+### Blog / Actualité / Divertissement :
 
 * [Circuler propre](https://circulerpropre.fr)
 
